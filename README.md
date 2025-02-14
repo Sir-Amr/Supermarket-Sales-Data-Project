@@ -1,6 +1,7 @@
-🛒 Supermarket Sales Analysis
-📌 Overview
-This project analyzes supermarket sales data using Python to uncover key trends, customer behavior, and business insights. Through data visualization and statistical analysis, the report helps optimize business decisions and improve revenue strategies.
+# 🛒 Supermarket Sales Analysis
+# 📌 Overview
+# This project analyzes supermarket sales data using Python to uncover key trends, customer behavior, and business insights. Through data visualization and statistical analysis, the report helps optimize business decisions 
+# and improve revenue strategies.
 
 📂 Dataset Description
 The dataset consists of sales records from a supermarket chain with the following key features:
