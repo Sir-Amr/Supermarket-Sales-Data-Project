@@ -18,6 +18,5 @@ The dataset consists of sales records from a supermarket chain with the followin
 - ✅ Python 🐍
 - ✅ Pandas 🏆
 - ✅ Matplotlib & Seaborn 📈
-- ✅ Power BI (Optional) 📊
 - ✅ Jupyter Notebook 📓
 
